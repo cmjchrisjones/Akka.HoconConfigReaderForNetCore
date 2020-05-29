@@ -1,3 +1,7 @@
+![Nuget](https://img.shields.io/nuget/v/CJTech.HoconConfigReader?style=for-the-badge)
+
+![Nuget](https://img.shields.io/nuget/dt/CJTech.HoconConfigReader?style=for-the-badge)
+
 ## What is it
 
 I've been doing a lot of Pluralsight courses recently around Akka.NET, and whilst a majority (if not all) were released pre .NET Core days, as I was going through them I was targeting either .NET Core or .NET Standard.
