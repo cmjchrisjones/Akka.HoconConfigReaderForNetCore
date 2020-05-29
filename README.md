@@ -1,5 +1,4 @@
 [![Nuget](https://img.shields.io/nuget/v/CJTech.HoconConfigReader?style=for-the-badge)](https://www.nuget.org/packages/CJTech.HoconConfigReader/)
-
 ![Nuget](https://img.shields.io/nuget/dt/CJTech.HoconConfigReader?style=for-the-badge)
 
 ## What is it
