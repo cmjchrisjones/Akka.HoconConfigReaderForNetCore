@@ -47,14 +47,14 @@ In here, there needs to be an XML element before creating a couple of other XML 
 </configuration>
 ```
 
-Ensure you set this files `Copy to output directory` property is set to **Copy always**
+Ensure you set this files `Copy to output directory` property to **Copy always**
 
 ![Copy to output directory](./CopyToOutputDirectory.png)
 
 Then we can do something like this
 
 ```csharp
-using Akka.Actor
+using Akka.Actor;
 using CJTech.Akka.Helps.HoconConfigReader;
 
 class Program
