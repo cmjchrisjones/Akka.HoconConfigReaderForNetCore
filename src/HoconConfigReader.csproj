@@ -4,6 +4,8 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <AssemblyName>CJTech.HoconConfigReader</AssemblyName>
     <RootNamespace>CJTech.HoconConfigReader</RootNamespace>
+    <RepositoryUrl>https://github.com/cmjchrisjones/Akka.HoconConfigReaderForNetCore</RepositoryUrl>
+    <RepositoryType>GitHub</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
