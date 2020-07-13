@@ -45,7 +45,16 @@ In here, there needs to be an XML element before creating a couple of other XML 
   </akka>
 </configuration>
 ```
-
+Then install 
+  - Via NuGet Package Manager:
+  `Install-Package CJTech.HoconConfigReader`
+  - Via .NET CLI:
+  `dotnet add package CJTech.HoconConfigReader`
+  - Via Package Reference:
+  `<PackageReference Include="CJTech.HoconConfigReader" />`
+  - Via Paket CLI:
+  `paket add CJTech.HoconConfigReader`
+  
 Ensure you set this files `Copy to output directory` property to **Copy always**
 
 ![Copy to output directory](./CopyToOutputDirectory.png)
@@ -54,7 +63,7 @@ Then we can do something like this
 
 ```csharp
 using Akka.Actor;
-using CJTech.Akka.Helps.HoconConfigReader;
+using CJTech.Akka.Helpers.HoconConfigReader;
 
 class Program
 {
